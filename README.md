@@ -1,5 +1,5 @@
 # react-express
-Using React with Express 
+A simple React app that uses Express on the backend
 
 ## Installation
 
